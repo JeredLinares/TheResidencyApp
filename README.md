@@ -1,9 +1,9 @@
 # TheResidencyApp
 Organizes Residency Commitments
 This application organizes the 3 main domains of residency
-..*scheaduling
-..*studying
-..*patient care
+- scheaduling
+- studying
+- patient care
 
 ##Scheaduling
 
